@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1149
+
+Tries to find a meaningful text that should be displayed in the folded column.
+If something is meaningful is decided by a regular expression provided by the user.
+It does *not* decide when and how a fold is made, nor what is to be folded away.
+
+
